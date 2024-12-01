@@ -1,3 +1,4 @@
-# League of Legends: The Importance of Monster Objectives to Wins
+# League of Legends: The Impact of Monster Objectives on Wins
 UCSD DSC 80 Final Project
+
 test changes
