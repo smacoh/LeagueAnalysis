@@ -256,3 +256,13 @@ Players have long debated on whether the Blue side has an advantage over the Red
 
 - Significance Level: 0.05
 
+The resulting plot of the permutation test is as follows:
+
+<iframe
+  src="assets/fig-fairness.html"
+  width="800"
+  height="430"
+  frameborder="0"
+></iframe>
+
+The observed test statistic, 0.0032, clearly lies in the bulk of the permuted test statistics, indicating that the observed is not uncommon. The p-value, 0.0034, is above the 0.05 significance level, which means that I fail to reject the null hypothesis. Therefore, my model seems to be fair, with differences in accuracy for teams on side Blue and teams on side Red being due to chance.
